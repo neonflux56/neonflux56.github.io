@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Blog1"
 date: 2014-04-30
 ---
 
